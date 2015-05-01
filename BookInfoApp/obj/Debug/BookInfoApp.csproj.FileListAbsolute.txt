@@ -1,0 +1,18 @@
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe.config
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.pdb
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csprojResolveAssemblyReference.cache
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.BookInfoApp.resources
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.Properties.Resources.resources
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csproj.GenerateResource.Cache
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.exe
+E:\.NET Web App(Batch-4)\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.pdb
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe.config
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.exe
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.pdb
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.pdb
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csprojResolveAssemblyReference.cache
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.BookInfoApp.resources
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.Properties.Resources.resources
+D:\OPPVB.NETC#\SEIP\25-04-15\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csproj.GenerateResource.Cache
